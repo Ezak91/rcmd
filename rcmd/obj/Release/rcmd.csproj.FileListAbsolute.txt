@@ -2,3 +2,4 @@ C:\Users\mszymkowiak.ABATGROUP\Desktop\Meine Dateien\Privat\rcmd\rcmd\bin\Releas
 C:\Users\mszymkowiak.ABATGROUP\Desktop\Meine Dateien\Privat\rcmd\rcmd\bin\Release\rcmd.pdb
 C:\Users\mszymkowiak.ABATGROUP\Desktop\Meine Dateien\Privat\rcmd\rcmd\obj\Release\rcmd.dll
 C:\Users\mszymkowiak.ABATGROUP\Desktop\Meine Dateien\Privat\rcmd\rcmd\obj\Release\rcmd.pdb
+C:\Users\mszymkowiak.ABATGROUP\Desktop\Meine Dateien\Privat\rcmd\rcmd\obj\Release\rcmd.csprojResolveAssemblyReference.cache

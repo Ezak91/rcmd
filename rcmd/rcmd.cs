@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace rcmd
 {
-    public class rcmd
+    public class Rcmd
     {
         /// <summary>
         /// The connection options
@@ -25,7 +25,7 @@ namespace rcmd
         /// <param name="password">The password.</param>
         /// <param name="domain">The domain.</param>
         /// <param name="enablePrivileges">if set to <c>true</c> [enable privileges].</param>
-        public rcmd(String username, String password, String domain, String hostName, bool enablePrivileges)
+        public Rcmd(String username, String password, String domain, String hostName, bool enablePrivileges)
         {
             setConnectionOptions(username, password, domain, enablePrivileges);
             setManagementScope(hostName);
